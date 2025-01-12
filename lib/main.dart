@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:iot_sau_pm_project/views/home_ui.dart';
+//import 'package:iot_sau_pm_project/views/home_ui.dart';
 import 'package:iot_sau_pm_project/views/splash_screen_ui.dart';
 
 void main() {
