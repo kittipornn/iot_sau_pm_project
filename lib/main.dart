@@ -5,7 +5,6 @@ import 'package:iot_sau_pm_project/views/splash_screen_ui.dart';
 
 void main() {
   runApp(
-    //13131
     IoTSauPMproject(),
   );
 }

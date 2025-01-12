@@ -10,6 +10,8 @@ class HomeUI extends StatefulWidget {
 class _HomeUIState extends State<HomeUI> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      backgroundColor: const Color.fromARGB(255, 206, 151, 69),
+    );
   }
 }
