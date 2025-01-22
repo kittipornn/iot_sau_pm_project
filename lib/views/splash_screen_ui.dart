@@ -44,12 +44,19 @@ class _SplashScreenUIState extends State<SplashScreenUI> {
               'IoT SAU PM Thailand',
               style: TextStyle(
                 color: Colors.white,
-                fontSize: MediaQuery.of(context).size.height * 0.025,
+                fontSize: MediaQuery.of(context).size.height * 0.03,
+                fontWeight: FontWeight.bold,
+              ),
+            ),
+            Text(
+              'Created by MARKOV IT SAU',
+              style: TextStyle(
+                color: Colors.white,
                 fontWeight: FontWeight.bold,
               ),
             ),
             SizedBox(
-              height: MediaQuery.of(context).size.height * 0.025,
+              height: MediaQuery.of(context).size.height * 0.035,
             ),
             CircularProgressIndicator(),
           ],
